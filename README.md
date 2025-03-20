@@ -23,4 +23,4 @@ Vago comunmente dentro de <br>
 ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
 
 Reproductor de musica favorito 
-![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white) (Aunque uso Android :slight_frown: )
+![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)  (Aunque uso Android git commit -am "Add magnificient emoji in your commit :slight_frown:" )
